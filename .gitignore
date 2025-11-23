@@ -1,0 +1,56 @@
+# Ignore everything
+*
+
+# But track these files
+!*.py
+!*.json
+!*.txt
+!*.md
+!LICENSE
+!README.md
+!.gitignore
+
+# Explicitly ignore build artifacts
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Ignore virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore logs and temp files
+*.log
+*.tmp
+*.temp
+
+# Ignore assets (icons/images not in repo)
+assets/
+*.ico
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Ignore check scripts
+check_icon.py

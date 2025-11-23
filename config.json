@@ -1,0 +1,14 @@
+{
+  "poll_intervals": {
+    "cpu": 3,
+    "ram": 5,
+    "disk": 10
+  },
+  "window": {
+    "width": 320,
+    "height": 520,
+    "resizable": false
+  },
+  "cache_ttl": 1
+}
+
