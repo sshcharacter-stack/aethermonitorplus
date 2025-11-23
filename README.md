@@ -55,7 +55,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/sshcharacter-stack/aetherMonitor+.git
+   git clone https://github.com/sshcharacter-stack/aetherMonitorplus.git
    cd aetherMonitor+
    ```
 
