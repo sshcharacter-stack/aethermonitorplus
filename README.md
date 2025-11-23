@@ -1,7 +1,7 @@
 # ⚡ Aether Monitor+
 
 <div align="center">
-
+telegram(exe):https://t.me/shiosoftware
 **Ultra-lightweight system monitoring application for Windows**
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
