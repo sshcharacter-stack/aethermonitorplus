@@ -14,6 +14,7 @@ telegram(exe):https://t.me/shiosoftware
 
 ---
 
+If you want to support us:https://www.donationalerts.com/r/shiosoftwares
 ## ✨ Features
 
 ### 🎯 Core Functionality
